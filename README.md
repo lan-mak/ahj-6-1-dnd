@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/135agoynjvol8brg?svg=true)](https://ci.appveyor.com/project/lan-mak/ahj-6-1-dnd)
+
+GitHub pages: https://lan-mak.github.io/ahj-6-1-dnd/
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
